@@ -1,5 +1,15 @@
 <h1>JulianoWeb 🎈</h1>
 
+<p>
+  Desenvolvimento Web ⚡ | Cyber Security ⚡ | CLI Tools ⚡
+</p>
+
+ Sou entusiasta em criar ferramentas simples e funcionais, com foco em:
+
+- 🕸 Desenvolvimento Web (PHP, JavaScript, Flask)
+- 🕸 Segurança da Informação (pentest, automação, análise)
+- 🕸 Projetos educativos e ambientes de laboratório (Kali + Metasploitable)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JulianoWeb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JulianoWeb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
