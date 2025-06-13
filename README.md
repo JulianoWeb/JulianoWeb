@@ -62,6 +62,7 @@ echo "Web | CLI | Pentest | Automação"
   <a href="https://www.linkedin.com/in/juliano-almeida-aab984330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🚀 Status
+##
 
-![Loading...](https://progress-bar.dev/90/?title=compilando&animation=marquee)
+![status](https://img.shields.io/badge/Flupy--CLI--Build-65%25-red?style=for-the-badge)
+
