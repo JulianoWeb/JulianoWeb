@@ -61,8 +61,3 @@ echo "Web | CLI | Pentest | Automação"
   <a href="mailto:julianclam78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliano-almeida-aab984330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-![status](https://img.shields.io/badge/Flupy--CLI--Build-65%25-red?style=for-the-badge)
-
