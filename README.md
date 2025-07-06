@@ -64,8 +64,10 @@ echo "Web | CLI | Pentest | Automação"
 ##
 
 <div> 
-  <a href="mailto:julianclam78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliano-almeida-aab984330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:julianclam78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/juliano-almeida-aab984330/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/@Nobru_fluxo" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/t9V4vac86T" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ```sql
