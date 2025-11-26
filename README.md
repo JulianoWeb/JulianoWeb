@@ -55,6 +55,7 @@ echo "Web | CLI | Pentest | Automação"
 <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="30" width="40" />
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="30" width="40" />
 <img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="30" width="40" />
 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="30" width="40" />
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="30" width="40" />
