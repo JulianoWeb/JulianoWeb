@@ -19,8 +19,8 @@ Principais conhecimentos:
 - Uso de ferramentas como Nmap, Burp Suite, sqlmap e Hydra
 
 Objetivo: evoluir constantemente até atuar profissionalmente em Segurança Ofensiva
-
 </pre>
+
 <pre>
 ┌──────────────────────────────────────────────┐
 │ ~/activity.log                               │
@@ -33,7 +33,6 @@ Objetivo: evoluir constantemente até atuar profissionalmente em Segurança Ofen
 [IN PROGRESS] Privilege Escalation
 [IN PROGRESS] Web Exploitation avançado
 [LEARNING] Buffer Overflow / Exploits em baixo nível
-
 </pre>
 
 <pre>
@@ -53,26 +52,30 @@ PORT     STATE SERVICE VERSION
 80/tcp   open  http    Apache httpd 2.4.41
 443/tcp  open  https   Apache httpd 2.4.41
 
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+Service Info: OS: Linux
 
 Nmap done: 1 IP address (1 host up) scanned in 12.47 seconds
 
 [INFO] Enumeration completed
 [INFO] Potential attack surface identified
 </pre>
+
 <pre>
 ┌──────────────────────────────────────────────┐
 │ ~/stack                                      │
 └──────────────────────────────────────────────┘
 </pre>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,ruby,php,git,mysql,bash,electron,react,flask,github,vscode" />
 </p>
+
 <pre>
 ┌──────────────────────────────────────────────┐
 │ ~/legendary-team                             │
 └──────────────────────────────────────────────┘
 </pre>
+
 <p align="center">
-    <img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="90"/>
-    
+  <img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="100"/>
+</p>
