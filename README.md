@@ -1,71 +1,78 @@
+<pre>
+┌──────────────────────────────────────────────┐
+│ ~/profile                                    │
+└──────────────────────────────────────────────┘
 
+Foco em Cibersegurança Ofensiva e Pentest
+Interesse em exploração de vulnerabilidades, automação e análise de sistemas
+
+Perfil orientado à prática: aprendizado contínuo em ambientes reais e simulados
+(Hack The Box, laboratórios locais, projetos próprios)
+
+Mentalidade técnica com abordagem curiosa e investigativa
+Forte interesse em entender "como funciona" antes de "como usar"
+
+Principais conhecimentos:
+- Enumeração e reconhecimento de alvos
+- Análise de serviços e exploração básica
+- Scripts em Python e Bash para automação
+- Uso de ferramentas como Nmap, Burp Suite, sqlmap e Hydra
+
+Objetivo: evoluir constantemente até atuar profissionalmente em Segurança Ofensiva
+
+</pre>
+<pre>
+┌──────────────────────────────────────────────┐
+│ ~/activity.log                               │
+└──────────────────────────────────────────────┘
+
+[OK] Reconhecimento de rede
+[OK] Enumeração de serviços
+[OK] Exploração básica de vulnerabilidades
+[OK] Automação com scripts (Python/Bash)
+[IN PROGRESS] Privilege Escalation
+[IN PROGRESS] Web Exploitation avançado
+[LEARNING] Buffer Overflow / Exploits em baixo nível
+
+</pre>
+
+<pre>
+┌──────────────────────────────────────────────┐
+│ ~/nmap.scan                                  │
+└──────────────────────────────────────────────┘
+
+$ nmap -sC -sV -Pn target.local
+
+Starting Nmap 7.94 ( https://nmap.org )
+Nmap scan report for target.local
+Host is up (0.032s latency).
+Not shown: 997 closed ports
+
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.2p1 Ubuntu
+80/tcp   open  http    Apache httpd 2.4.41
+443/tcp  open  https   Apache httpd 2.4.41
+
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap done: 1 IP address (1 host up) scanned in 12.47 seconds
+
+[INFO] Enumeration completed
+[INFO] Potential attack surface identified
+</pre>
+<pre>
+┌──────────────────────────────────────────────┐
+│ ~/stack                                      │
+└──────────────────────────────────────────────┘
+</pre>
 <p align="center">
-  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="250" alt="hacker gif">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,ruby,php,git,mysql,bash,electron,react,flask,github,vscode" />
 </p>
-
-<h1 align="center"><span style="color:#00ff00;">JulianoWeb:~$</span> whoami</h1>
-
+<pre>
+┌──────────────────────────────────────────────┐
+│ ~/legendary-team                             │
+└──────────────────────────────────────────────┘
+</pre>
 <p align="center">
-  <i>dev web curioso | entusiasta em cybersec ofensiva | CLI lover</i>
-</p>
-
-<h2>🎮 Hacker Challenge v1.0</h2>
-
-<p>
-👾 👾 👾 👾 💥 👾 👾 👾 <br><br>
-💻 Invasão detectada! Selecione sua ação:
-</p>
-
-<p>
-🛡️ Defender  🔓 Invadir  💣 Explodir  🔁 Repetir
-</p>
-
-<p>
-Escolha seu destino:  
-<span style="color:lime">echo "sudo ./game --exploit"</span>
-</p>
-
-<p>
-❤️ ❤️ ❤️
-</p>
-
-```sh
-# Desenvolvendo ferramentas simples com foco em segurança, análise e aprendizado
-echo "Web | CLI | Pentest | Automação"
-```
-
-```sh
-> Linguagens: PHP, Python, JavaScript, HTML, SQL, Bash
-> Ferramentas: Git, Nmap, sqlmap, Hydra, Burp, Metasploit
-> Frameworks: Flask, Express.js
-> SOs: Kali, Parrot, Metasploitable, Debian
-```
-
-**"A melhor skill é saber automatizar o que você ainda está aprendendo."**
-
-<p>
-<img src="https://skillicons.dev/icons?i=py" alt="Python" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=php" alt="PHP" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="30" width="40" />
-<img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
-</p>
-
-
-```sql
--- Selecionar todos os usuários com status ativo
-SELECT id, nome, email
-FROM usuarios
-WHERE status = 'ativo'
-ORDER BY nome ASC;
+    <img src="https://play.pokemonshowdown.com/sprites/ani/dragonite.gif" width="90"/>
+    
