@@ -67,7 +67,7 @@ Nmap done: 1 IP address (1 host up) scanned in 12.47 seconds
 </pre>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,ruby,php,git,mysql,bash,electron,react,flask,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,docker,linux,js,nodejs,ruby,php,git,mysql,bash,electron,react,flask,github,vscode" />
 </p>
 
 <pre>
