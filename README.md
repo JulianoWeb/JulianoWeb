@@ -77,5 +77,5 @@ Nmap done: 1 IP address (1 host up) scanned in 12.47 seconds
 </pre>
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/gengar-gmax.gif" width="100"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/scizor-mega.gif" width="100"/>
 </p>
